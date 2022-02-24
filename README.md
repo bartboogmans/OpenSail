@@ -1,2 +1,2 @@
 # OpenSail
-Marine motion control systems framework
+Marine motion control system framework
